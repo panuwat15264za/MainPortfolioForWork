@@ -208,7 +208,7 @@ section .title::after {
 }
 .portfolio .title::after{
     background: #111;
-    content: "Work experience";
+    /* content: "Work experience"; */
 }
 .portfolio .portfolio-content .card{
     width: calc(33% - 20px);
